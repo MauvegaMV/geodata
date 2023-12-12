@@ -7,7 +7,7 @@ book:
   subtitle: "Mesa de monitoreo por puntos"
   chapters:
     - index.qmd
-    - 01-markdown.qmd
+    - 01-introduccion.qmd
     - 02-git.qmd
     - 03-quarto.qmd
     - 04-r.qmd
